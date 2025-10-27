@@ -1,0 +1,27 @@
+* 14719a2 (HEAD -> main) docs: Add changelog
+| * bcda89d (feature/another-feature) Added CHANGELOG.md
+| * 08300bf (origin/feature/another-feature) Added CHANGELOG.md
+| * 00a575c feat: Add test feature
+|/  
+* 4b96865 (tag: v1.1.0, tag: v1.0.0) docs: Update README
+* 175c799 (origin/main) feat: Add new feature
+* 830f42e Added CHANGELOG.md
+* 9293745 docs: Add FAQ section
+| * e3c2de3 (origin/feature/new-feature, feature/new-feature) feat: Add new feature
+|/  
+* 5d8247c Added images
+* f29974e completed phase 3
+* 7df5c6a completed phase 3
+* 6cb3932 Resolved merge conflict in config.json
+* 8cfd238 Resolved merge conflict in deploy.sh
+*   8c23f8a Resolved merge conflict in monitor.js
+|\  
+| * d3dd9b2 (origin/conflict-simulator, instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+* |   9616389 completed phase-2
+|\ \  
+| * | 02011a5 (origin/dev, instructor/dev, dev) updating dev
+| |/  
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+* ae630eb Initial commit
