@@ -1,3 +1,4 @@
+
 - 4b96865: docs: Update README (Seela Preethi, 54 minutes ago)
 - 175c799: feat: Add new feature (Seela Preethi, 76 minutes ago)
 - 830f42e: Added CHANGELOG.md (Hanu Gupta, 4 days ago)
