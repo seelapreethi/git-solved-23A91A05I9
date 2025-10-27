@@ -1,2 +1,16 @@
-Used fetch 1 time, pull 1 time
-Used stash 1 time
+- 4b96865: docs: Update README (Seela Preethi, 54 minutes ago)
+- 175c799: feat: Add new feature (Seela Preethi, 76 minutes ago)
+- 830f42e: Added CHANGELOG.md (Hanu Gupta, 4 days ago)
+- 9293745: docs: Add FAQ section (Seela Preethi, 77 minutes ago)
+- 5d8247c: Added images (Seela Preethi, 7 hours ago)
+- f29974e: completed phase 3 (Seela Preethi, 7 hours ago)
+- 7df5c6a: completed phase 3 (Seela Preethi, 7 hours ago)
+- 6cb3932: Resolved merge conflict in config.json (Seela Preethi, 7 hours ago)
+- 8cfd238: Resolved merge conflict in deploy.sh (Seela Preethi, 7 hours ago)
+- 8c23f8a: Resolved merge conflict in monitor.js (Seela Preethi, 7 hours ago)
+- 9616389: completed phase-2 (Seela Preethi, 8 hours ago)
+- d3dd9b2: updating conflict-simulator (Hanu Gupta, 4 days ago)
+- 02011a5: updating dev (Hanu Gupta, 4 days ago)
+- 0312c6f: updating main (Hanu Gupta, 4 days ago)
+- fadfd24: Revise README for DevOps Simulator project (Hanu Gupta, 4 days ago)
+- ae630eb: Initial commit (Hanu Gupta, 4 days ago)

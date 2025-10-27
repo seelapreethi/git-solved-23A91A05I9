@@ -6,8 +6,8 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 - **Version**: 2.0.0-beta (Development)
 - **Environment**: Production & Development
 - **Maintainer**: Core DevOps Team
-- **Student**: [Preethi Seela]
-- **Student ID**: [23A91A05I9]
+- **Student**: Preethi Seela
+- **Student ID**: 23A91A05I9
 
 ---
 
